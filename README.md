@@ -1,8 +1,9 @@
 # 👋 안녕하세요! 저는 전윤모입니다.
 
-## 🚀 전문 분야
-- **프로그래밍 언어**: Python, Java, C 등
-- **분야**: AI/ML, 데이터 분석, 웹 개발 등
+## 🛠️ 기술 스택
+- **언어**: Python, JavaScript
+- **프레임워크**: Django, Flask
+- **툴**: Docker, Git, TensorFlow
 
 ## 📚 주요 프로젝트
 1. [꿀벌 추적 애플리케이션](https://github.com/yoonmojeon/bee-tracking-app)  
@@ -13,10 +14,6 @@
 ## 🌱 현재 관심사
 - 스마트십, 자율운항 기술, AI 최적화 등
 
-## 🛠️ 기술 스택
-- **언어**: Python, JavaScript
-- **프레임워크**: Django, Flask
-- **툴**: Docker, Git, TensorFlow
 
 ## 📜 자격증
 - **정보처리기사**
